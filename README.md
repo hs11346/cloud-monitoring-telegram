@@ -10,6 +10,12 @@ This repository provides a basic template and instructions for setting up a simp
 * Example `systemd` service configuration for running the script reliably.
 * Helper scripts to start, stop, and check the status of the service.
 
+## Applications
+What can you do with this? Anything from serious applications to quality of life improvements, like:
+* Running trading bots and sending live updates to yourself.
+* Scrapping websites or news sources continuously.
+* Setting up regular reminders.
+
 ## Prerequisites
 
 1.  **A Linux Cloud Server:** Any modern distribution that uses `systemd` (Ubuntu 16.04+, Debian 8+, CentOS 7+, Fedora 15+). Examples include a DigitalOcean Droplet.
