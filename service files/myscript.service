@@ -1,0 +1,10 @@
+[Unit]
+Description=My Script Service
+
+[Service]
+ExecStart=/usr/bin/python3 /root/dir/my_python_script.py
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target

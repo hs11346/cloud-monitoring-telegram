@@ -1,0 +1,1 @@
+systemctl stop myscript.service
