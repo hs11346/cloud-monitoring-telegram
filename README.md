@@ -33,11 +33,11 @@ What can you do with this? Anything from serious applications to quality of life
     ssh your_username@your_server_ip
     ```
 
-2.  **Clone this Repository:**
+2.  **Clone your Repository:**
     ```bash
     git clone <your-repository-url> # Replace with your repo URL
-    cd cloud-monitoring # Or your repository's directory name
     ```
+    * For private repos, it is recommended that you use the "Deploy Keys" function of Github. You can refer to this [link](https://dylancastillo.co/posts/how-to-use-github-deploy-keys.html) for instructions.
 
 3.  **Configure the Python Script:**
     * Navigate to the Python script directory: `cd python_scripts`
